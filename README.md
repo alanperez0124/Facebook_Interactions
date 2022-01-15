@@ -6,5 +6,5 @@ marketing-related Facebook posts by a cosmetics company and provides insight on 
 ### Files included: 
 - R code 
 - Document that contains analysis of data
-- CSV file that contains the data
+- RData file that contains the data
 
